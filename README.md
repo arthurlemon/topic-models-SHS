@@ -9,4 +9,6 @@ La section "Code" contient les notebook utilisés pour ce travail, menant pas à
 ## Résultats
 Présente les principaux résultats obtenus pour les modèles LDA, DTM et DIM sous forme de graphes, tableaux et de visualisations.
 
+![Projection t-SNE](Résultats/Plots/LDA/clustering_tsne/AE_10.png)
+
 Pour toute question concernant ce dépôt, contactez arthur.tobler@polymtl.ca
